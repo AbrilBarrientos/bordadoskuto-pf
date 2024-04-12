@@ -1,0 +1,36 @@
+header .header-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img{
+    transform: 2seg rotate(45deg);
+}
+
+header h1{
+    font-family: 'UNDERRATED', sans-serif;
+}
+
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 40px;
+    cursor: pointer;
+    font-family: 'BORELA', sans-serif;
+    font-size: 30px;
+    list-style: none;
+}

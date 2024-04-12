@@ -1,0 +1,19 @@
+.productos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.productos .card img{
+    padding: 20px;
+}
+
+.productos .card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    text-align: center;
+}

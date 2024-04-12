@@ -1,0 +1,19 @@
+.pedidos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.pedidos .card img{
+    padding: 20px;
+}
+
+.pedidos .card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    text-align: center;
+}
